@@ -1,1 +1,5 @@
-
+'''i did an analysis of the "diabetes" data. in the correlation plot i used two features:
+1) body mass index
+2) tested positive or negative
+during the analysis i saw that the strongest correlation was between these two features.
+the majority of positive patients had a higher BMI than the negative patients
